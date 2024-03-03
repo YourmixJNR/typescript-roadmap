@@ -1,5 +1,11 @@
-const main = (name: string) => {
-    return (`Hello, ${name}`)
-}
+// Explicit Type
+let firstName: string = "John";
 
-main("YourmixJNR")
+// Implicit Type
+
+let secondName = "Deo"
+
+// TypeScript Arrays
+
+const names: readonly string[] = ["John Deo"];
+// names.push("John Deo")
