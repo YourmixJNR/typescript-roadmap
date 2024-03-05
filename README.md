@@ -1,0 +1,1 @@
+Basics of TypeScript: Covers the fundamentals of TypeScript, including types, interfaces, classes, and more.
